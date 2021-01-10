@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DonacionesArquitectura</string>
+    <string name="donacion">Total de donaciones : %1$s</string>
+</resources>
